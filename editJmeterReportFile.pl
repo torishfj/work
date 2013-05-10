@@ -1,7 +1,7 @@
 #!/usr/bin/perl
-# jmeter ‚Ì“ŒvƒŒƒ|[ƒgƒtƒ@ƒCƒ‹‚©‚ç
-# •À—ñ“x(concurrency)AƒXƒ‹[ƒvƒbƒg(throughput)
-# ¬Œ÷‰ñ”(success)A¸”s‰ñ”(fault) ‚ğ‹‚ß‚éB
+# jmeter ã®çµ±è¨ˆãƒ¬ãƒãƒ¼ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰
+# ä¸¦åˆ—åº¦(concurrency)ã€ã‚¹ãƒ«ãƒ¼ãƒ—ãƒƒãƒˆ(throughput)
+# æˆåŠŸå›æ•°(success)ã€å¤±æ•—å›æ•°(fault) ã‚’æ±‚ã‚ã‚‹ã€‚
 use Time::Piece;
 $timegrid = 1000;
 
